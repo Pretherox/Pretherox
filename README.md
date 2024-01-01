@@ -6,7 +6,7 @@ As I do, I had been entrusted with a small companion that will acompany me durin
 
 ## #30NitesOfCode:
   [Check out my progress!](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@Pretherox/30-nites-of-code)  
-  !(https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=Pretherox)
+  ![@Pretherox #30NitesOfCode](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=Pretherox)
 
 <!--
 **Pretherox/Pretherox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
