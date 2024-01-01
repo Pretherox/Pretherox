@@ -1,4 +1,12 @@
-### Hi there 👋
+### Saludos/Hi there! 👋
+
+I'm pretherox, and i'm participating at the #30NitesOfCode to assist me on creating a daily routine of coding so I can focus
+on creating my projects and learn more about coding.
+As I do, I had been entrusted with a small companion that will acompany me during my journey.
+
+## #30NitesOfCode:
+  [Check out my progress!](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@Pretherox/30-nites-of-code)  
+  ![@Pretherox #30NitesOfCode](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=Pretherox)
 
 <!--
 **Pretherox/Pretherox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
